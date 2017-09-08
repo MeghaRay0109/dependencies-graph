@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.gridkit.lab:vicluster-core:0.8.12-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/gridkit/lab/vicluster-core/0.8.12-SNAPSHOT/vicluster-core-0.8.12-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/gridkit/lab/vicluster-core/0.8.12-SNAPSHOT/vicluster-core-0.8.12-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/gridkit/lab/vicluster-core/0.8.12-SNAPSHOT/vicluster-core-0.8.12-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
